@@ -1,0 +1,14 @@
+GEM
+  specs:
+    bit-struct (0.15.0)
+    pcaprub (0.12.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bit-struct
+  pcaprub
+
+BUNDLED WITH
+   1.10.6
