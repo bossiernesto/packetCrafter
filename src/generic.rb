@@ -1,7 +1,9 @@
+require_relative 'abstract'
+
 module PacketWriter
 
   class BasicStruct
-    include Abstract
+    extend Abstract
 
     abstract_methods :encode, :decode
 
